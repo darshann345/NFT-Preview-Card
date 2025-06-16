@@ -5,7 +5,7 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    font-family: "Outfit, sans-serif";
+    font-family: Outfit, sans-serif;
     flex-direction: column;
 }
 
@@ -66,7 +66,8 @@ body {
     gap: 100px;
 }
 
-.card__time-left, .card__time-right {
+.card__time-left,
+.card__time-right {
     display: flex;
     align-items: center;
     gap: 10px;
