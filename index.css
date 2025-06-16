@@ -52,10 +52,12 @@ font-family: Outfit, sans-serif;
 } 
 .card__title{
     position: relative;
-    margin-right: 150px;
+    margin-right: 100px;
     margin-bottom: 5px;
+    font-size: 1.5rem;
     
-} 
+}
+
 .card p{
     white-space: pre-line;
     color:rgb(80, 145, 202);
@@ -73,12 +75,12 @@ font-family: Outfit, sans-serif;
 .card__time-left{
     color: aqua;
     display:flex;
-    gap:10px;
+    gap:5px;
 } 
 .card__time-right{
     display: flex;
     gap:10px;
-        color:rgb(80, 145, 202);
+    color:rgb(80, 145, 202);
 
 } 
 .card__creator{
